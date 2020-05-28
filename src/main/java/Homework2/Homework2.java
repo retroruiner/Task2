@@ -1,5 +1,5 @@
 package Homework2;
-
+//pull
 public class Homework2 {
     public static void main(String[] args) {
         //Swap 1 to 0 and 0 to 1 in the array
